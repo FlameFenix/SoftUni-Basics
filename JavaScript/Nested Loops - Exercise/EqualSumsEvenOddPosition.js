@@ -17,8 +17,7 @@ function Sum(input) {
             }
 
         }
-        if(evenSum == oddSum)
-        {
+        if (evenSum == oddSum) {
             result += `${rows} `;
         }
     }
